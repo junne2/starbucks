@@ -1,5 +1,11 @@
 # starbucks
 
+패스트 캠퍼스 프론트 엔드 초격자 강의 실습 연습 파일
+
+구현 예제 패이지 이다.
+
+클론 코딩으로 작성되었습니다.
+
 https://flamboyant-lumiere-482a1e.netlify.app/
 
 예제  파일 [https://github.com/ParkYoungWoong/starbucks-vanilla-app](https://github.com/ParkYoungWoong/starbucks-vanilla-app)
